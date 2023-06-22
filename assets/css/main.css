@@ -2256,7 +2256,6 @@ input, select, textarea {
 					}
 
 			#main > section.cover {
-				padding: 0 0;
 				background-size: cover;
 				background-position: center center;
 			}
@@ -2657,7 +2656,7 @@ input, select, textarea {
 		background-color: #ecebf1;
 		border: 2px solid #ccc;
   		border-radius: 5px;
-  		padding: 1rem;
+  		padding: 0.25rem;
 	  }
 	  
 	  .company-image {
@@ -2691,7 +2690,7 @@ input, select, textarea {
 	  
 	  .job-description {
 		flex: 1 0;
-		margin-top: 1rem;
+		margin-top: 0.5rem;
 	  }
 }
 
@@ -2702,10 +2701,11 @@ input, select, textarea {
 	.company-listing {
 	  flex-direction: column;
 	  margin-bottom: 2rem;
-	  background-color: #ecebf1;
-	  border: 2px solid #ccc;
-	  border-radius: 5px;
-	  padding: 1rem;
+	  background-color: #ffffff;
+	  /*border: 1px solid #000000;
+	  border-radius: 2px;*/
+	  padding: 0 0.5em 0.1em 0.5em;
+	  box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
 	}
   
 	.company-image {
@@ -2716,7 +2716,9 @@ input, select, textarea {
 	}
 
 	.job-description {
-		text-align: left;
+		text-align: center;
+		font-size: 1em;
+		line-height:1.5em;
 	  }
   }
 
