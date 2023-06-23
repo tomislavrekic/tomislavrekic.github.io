@@ -2647,6 +2647,12 @@ input, select, textarea {
 
 	}
 
+.job-description {
+	margin-left: 3%;
+	margin-right: 3%;
+	text-align: left;
+}
+
 @media screen and (min-width: 767px){
 	.company-listing {
 		display: flex;
@@ -2713,8 +2719,6 @@ input, select, textarea {
 	  .job-description {
 		flex: 1 0;
 		margin-top: 1.5rem;
-		margin-left: 1rem;
-		margin-right: 1rem;
 	  }
 }
 
@@ -2740,7 +2744,6 @@ input, select, textarea {
 	}
 
 	.job-description {
-		text-align: center;
 		font-size: 1em;
 		line-height:1.5em;
 	  }
