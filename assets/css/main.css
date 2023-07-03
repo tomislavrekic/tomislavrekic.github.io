@@ -2809,6 +2809,7 @@ input, select, textarea {
 
   .curved-top{
 	border-radius: 5% 5% 0 0;
+	background-color: #272b26;
   }
 
   .item-text {
