@@ -2785,7 +2785,7 @@ input, select, textarea {
 
   .shadow {
 	display: inline-block;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.7);
 	border-radius: 25px;
 	padding: 3rem 2rem 4rem 2rem;
 	width: fit-content;
