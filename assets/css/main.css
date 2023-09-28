@@ -1952,7 +1952,7 @@ input, select, textarea {
 		text-decoration: none;
 		font-style: bold;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #6FAE61; /* Button tint CHANGE */
+		background-color: #618fae; /* Button tint CHANGE */
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1970,7 +1970,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #83C374;/* Button hover CHANGE */
+			background-color: #74b7c3;/* Button hover CHANGE */
 		}
 
 		input[type="button"]:active,
@@ -1978,7 +1978,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #64AB5A;/* Button pressed CHANGE */
+			background-color: #5a9bab;/* Button pressed CHANGE */
 		}
 
 /* Item */
@@ -1991,11 +1991,11 @@ input, select, textarea {
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out;
-		background-color: #6FAE61; /* CHANGE */
+		background-color: #61aeaa; /* CHANGE */
 	}
 
 	.item:hover {
-		background-color: #83C374; /* CHANGE */
+		background-color: #74b3c3; /* CHANGE */
 	}
 		.item header {
 			margin: 0;
@@ -2103,7 +2103,7 @@ input, select, textarea {
 			}
 
 				#header .icons a:hover {
-					color: #9ED598;/* LINKED IN ICONS HOVER CHANGE */
+					color: #98d3d5;/* LINKED IN ICONS HOVER CHANGE */
 				}
 
 	#logo {
@@ -2189,11 +2189,11 @@ input, select, textarea {
 					color: #d4d4d4;
 				}
 				#nav ul li a:hover:not(a.active) span:before {
-					color: #9ED598;
+					color: #98d5cd;
 				}
 
 					#nav ul li a.active span:before {
-						color: #7FBD7B; /* menu active CHANGE */
+						color: #7bb5bd; /* menu active CHANGE */
 					}
 
 /* Footer */
@@ -2274,7 +2274,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/wood1.jpg");	
+				background-image: url("../../images/AI1.jpg");	
 				height: 100%;
 			}
 
